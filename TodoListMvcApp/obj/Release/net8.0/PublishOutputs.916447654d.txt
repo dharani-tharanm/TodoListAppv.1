@@ -1,0 +1,7 @@
+C:\Users\z004yw6y\Git\Devops\ProjectAugest\TodoListMvcApp\publish-output\TodoListMvcApp.exe
+C:\Users\z004yw6y\Git\Devops\ProjectAugest\TodoListMvcApp\publish-output\appsettings.Development.json
+C:\Users\z004yw6y\Git\Devops\ProjectAugest\TodoListMvcApp\publish-output\appsettings.json
+C:\Users\z004yw6y\Git\Devops\ProjectAugest\TodoListMvcApp\publish-output\TodoListMvcApp.dll
+C:\Users\z004yw6y\Git\Devops\ProjectAugest\TodoListMvcApp\publish-output\TodoListMvcApp.deps.json
+C:\Users\z004yw6y\Git\Devops\ProjectAugest\TodoListMvcApp\publish-output\TodoListMvcApp.runtimeconfig.json
+C:\Users\z004yw6y\Git\Devops\ProjectAugest\TodoListMvcApp\publish-output\TodoListMvcApp.pdb
